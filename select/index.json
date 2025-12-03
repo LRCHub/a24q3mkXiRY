@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "冬がくれた予感 (MAKI Mix)",
+  "base_artist": "西木野真姫 (CV.Pile)",
+  "createdAt": "2025-12-03T08:12:03.075536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冬がくれた予感",
+      "artist": "BiBi",
+      "has_synced": true,
+      "path": "select/01_冬がくれた予感_BiBi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冬がくれた予感",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/02_冬がくれた予感_Pile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "冬がくれた予感",
+      "artist": "μ’s",
+      "has_synced": true,
+      "path": "select/03_冬がくれた予感_μ’s.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "冬がくれた予感",
+      "artist": "徳井青空",
+      "has_synced": false,
+      "path": "select/04_冬がくれた予感_徳井青空.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "冬がくれた予感",
+      "artist": "南條愛乃",
+      "has_synced": true,
+      "path": "select/05_冬がくれた予感_南條愛乃.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "冬がくれた予感 (ELI Mix)",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/06_冬がくれた予感_(ELI_Mix)_絢瀬絵里(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "冬がくれた予感 (NICO Mix)",
+      "artist": "矢澤にこ(CV.徳井青空)",
+      "has_synced": false,
+      "path": "select/07_冬がくれた予感_(NICO_Mix)_矢澤にこ(CV.徳井青空).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "冬がくれた予感",
+      "artist": "BiBi",
+      "has_synced": true,
+      "path": "select/08_冬がくれた予感_BiBi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "冬がくれた予感",
+      "artist": "BiBi (絢瀬絵里、西木野真姫、矢澤にこ)",
+      "has_synced": true,
+      "path": "select/09_冬がくれた予感_BiBi_(絢瀬絵里、西木野真姫、矢澤にこ).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "冬がくれた予感",
+      "artist": "BiBi (絢瀬絵里、西木野真姫、矢澤にこ)",
+      "has_synced": true,
+      "path": "select/10_冬がくれた予感_BiBi_(絢瀬絵里、西木野真姫、矢澤にこ).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "冬がくれた予感 (ELI Mix)",
+      "artist": "絢瀬絵里",
+      "has_synced": true,
+      "path": "select/11_冬がくれた予感_(ELI_Mix)_絢瀬絵里.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "冬がくれた予感 (MAKI Mix)",
+      "artist": "西木野真姫",
+      "has_synced": false,
+      "path": "select/12_冬がくれた予感_(MAKI_Mix)_西木野真姫.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "冬がくれた予感 (NICO Mix)",
+      "artist": "矢澤にこ",
+      "has_synced": false,
+      "path": "select/13_冬がくれた予感_(NICO_Mix)_矢澤にこ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "冬がくれた予感 (MAKI Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": false,
+      "path": "select/14_冬がくれた予感_(MAKI_Mix)_西木野真姫(CV.Pile).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "冬がくれた予感 (MAKI Mix)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/15_冬がくれた予感_(MAKI_Mix)_μ's.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "冬がくれた予感",
+      "artist": "BiBi～絢瀬絵里(南條愛乃)、西木野真姫(Pile)、矢澤にこ(徳井青空) from μ's～",
+      "has_synced": true,
+      "path": "select/16_冬がくれた予感_BiBi~絢瀬絵里(南條愛乃)、西木野真姫(Pile)、矢澤にこ(徳井青空)_from_μ's~.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "冬がくれた予感 (Off Vocal)",
+      "artist": "BiBi (絢瀬絵里、西木野真姫、矢澤にこ)",
+      "has_synced": true,
+      "path": "select/17_冬がくれた予感_(Off_Vocal)_BiBi_(絢瀬絵里、西木野真姫、矢澤にこ).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "冬がくれた予感 (Off Vocal)",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/18_冬がくれた予感_(Off_Vocal)_μ's.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冬がくれた予感",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/pl_01_冬がくれた予感_μ's.txt"
+    }
+  ]
+}
